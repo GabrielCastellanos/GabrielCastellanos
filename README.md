@@ -18,6 +18,15 @@
 
 
 ### :hammer_and_wrench: Lenguajes y herramientas :
+<div id="header" align="left">
+  <img decoding="async" src="https://img.shields.io/badge/androidstudio-0DBDFF?style=for-the-badge&logo=androidstudio&logoColor=white" alt="mysql"/>
+  <img decoding="async" src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="mysql"/>
+  <img decoding="async" src="https://img.shields.io/badge/MySQL-6DB33F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
+  <img decoding="async" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="excel"/>
+  <img decoding="async" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="mysql"/>
+  <img decoding="async" src="https://img.shields.io/badge/json-000000?style=for-the-badge&logo=json&logoColor=white" alt="mysql"/>
+  <img decoding="async" src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="mysql"/>
+
 <!--
 - 🔭 I’m currently working on my professional development
 - 🌱 I’m currently learning ...
