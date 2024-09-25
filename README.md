@@ -1,5 +1,6 @@
 
-![LinkedIn Banner](https://github.com/user-attachments/assets/10230a8f-b571-4368-8266-0e330981b9a6)
+![LinkedIn Banner](https://github.com/user-attachments/assets/de09a2af-0106-4002-94cb-7ba699c3429b)
+
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gabrielcastellanos&label=Profile%20views&color=0e75b6&style=flat" alt="gabrielcastellanos" /> </p>
 
