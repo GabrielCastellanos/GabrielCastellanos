@@ -1,4 +1,9 @@
-## Hi there 👋 My name is Gabriel Castellanos
+
+![LinkedIn Banner](https://github.com/user-attachments/assets/4daf07df-7460-4863-8a59-0ec0ac9ff6e6)
+
+
+
+## Hola Soy Gabriel. Encantado de conocerte! 👋
 
 <!--
 **GabrielCastellanos/GabrielCastellanos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
