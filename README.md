@@ -1,6 +1,7 @@
 
-![LinkedIn Banner](https://github.com/user-attachments/assets/4daf07df-7460-4863-8a59-0ec0ac9ff6e6)
-
+<div id="header" align="center">
+  <img decoding="async" src="[https://github.com/noelianav91/noelianav91/blob/main/Banner%20Github.png](https://github.com/user-attachments/assets/4daf07df-7460-4863-8a59-0ec0ac9ff6e6)" width="800"/>
+</div>
 
 
 ## Hola Soy Gabriel. Encantado de conocerte! 👋
