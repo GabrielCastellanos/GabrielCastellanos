@@ -1,11 +1,13 @@
 
-<div id="header" align="center">
-  <img decoding="async" src="[https://github.com/noelianav91/noelianav91/blob/main/Banner%20Github.png](https://github.com/user-attachments/assets/4daf07df-7460-4863-8a59-0ec0ac9ff6e6)" width="800"/>
-</div>
+![LinkedIn Banner](https://github.com/user-attachments/assets/10230a8f-b571-4368-8266-0e330981b9a6)
 
 
-## Hola Soy Gabriel. Encantado de conocerte! 👋
+  ## Hola Soy Gabriel. Encantado de conocerte! 👋
 
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-castellanos-a6a88a1b4/)
+
+<div id="badges" align="center">
+<img decoding="async" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=GabrielCastellanos.GabrielCastellanos&color=00cf00" alt=""/>
 <!--
 **GabrielCastellanos/GabrielCastellanos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
