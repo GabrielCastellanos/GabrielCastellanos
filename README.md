@@ -15,8 +15,14 @@
  <div id="header" align="left">
 
 ### :man_technologist: Sobre mí :
+Apasionado de la tecnología y disfrutando de una transición laboral al QA Engineer  <img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
+* :telescope: Actualmente estoy trabajando en el departamento de control presupuestal de una empresa de construcción pero necesito nuevos retos :muscle:
+* :blue_book: Enfocado en adquirir experiencia práctica en pruebas manuales para identificar errores y garantizar que el producto cumpla con los requisitos.
+* :computer: Aprovechando habilidades previas en resolución de problemas, atención al detalle, y comunicación efectiva para asegurar la transición exitosa a QA.
+* :mailbox: ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Gabriel-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/noelianav/](https://www.linkedin.com/in/gabriel-castellanos-a6a88a1b4/))
 
+---
 ### :hammer_and_wrench: Lenguajes y herramientas :
 <div id="header" align="left">
   <img decoding="async" src="https://img.shields.io/badge/androidstudio-0DBDFF?style=for-the-badge&logo=androidstudio&logoColor=white" alt="mysql"/>
