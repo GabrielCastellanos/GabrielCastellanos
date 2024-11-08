@@ -1,5 +1,5 @@
 
-![LinkedIn Banner](https://github.com/user-attachments/assets/de09a2af-0106-4002-94cb-7ba699c3429b)
+![Black   White Modern Minimalist Data Analyst LinkedIn Banner](https://github.com/user-attachments/assets/53ee8780-53fc-4218-bd8c-6b928f394944)
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gabrielcastellanos&label=Profile%20views&color=0e75b6&style=flat" alt="gabrielcastellanos" /> </p>
